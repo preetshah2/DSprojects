@@ -1,13 +1,10 @@
 ---
 title: "HARVARD EXTENSION SCHOOL"
-subtitle: "EXT CSCI E-106 Model Data Class Group Project Template"
+subtitle: "EXT CSCI E-106 Model Data Class Project Template"
 author:
-- Rajat Joy
-- Chloe Seo
-- Phillip Pham
+
 - Preet Shah
-- Ifeanyi Ogechi
-- Leo Vu
+
 
 tags: [logistic, neuronal networks, etc..]
 abstract: |
@@ -116,7 +113,7 @@ dispRegFunc <- function(reg, var.names=FALSE, wrap=0) {
 9.	Build an alternative model based on one of the following approaches to predict price: regression tree, NN, or SVM.  Check the applicable model assumptions. Explore using a logistic regression. 
 10.	Use the test data set to assess the model performances from above.
 11.	Based on the performances on both train and test data sets, determine your primary (champion) model and the other model which would be your benchmark model.
-12.	Create a model development document that describes the model following this template, input the name of the authors, Harvard IDs, the name of the Group, all of your code and calculations, etc..:
+
 
 \newpage
 
