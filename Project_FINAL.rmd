@@ -3,7 +3,7 @@ title: "HARVARD EXTENSION SCHOOL"
 subtitle: "EXT CSCI E-106 Model Data Class Project Template"
 author:
 
-- Preet Shah
+- Preet Shah 
 
 
 tags: [logistic, neuronal networks, etc..]
